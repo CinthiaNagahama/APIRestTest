@@ -1,0 +1,50 @@
+{
+  "user":[
+    {
+      "id": 1,
+      "fullName": "Alan Gomes Pereira",
+      "enrollment": 190253211218,
+      "institutionalEmail": "alan.pereira",
+      "course": 1
+    },
+    {
+      "id": 2,
+      "fullName": "Fulano Vasconcelos de Almeida",
+      "enrollment": 571891011550,
+      "institutionalEmail": "fulano.almeida",
+      "course": 2
+    }
+  ],
+  "courses":[
+    {
+      "id": 1,
+      "name": "Vestuário",
+      "degree": "Técnico"
+    },
+    {
+      "id": 2,
+      "name": "Ciência da Computação",
+      "degree": "ABI"
+    },
+    {
+      "id": 3,
+      "name": "Ciência da Computação",
+      "degree": "Licenciatura"
+    },
+    {
+      "id": 4,
+      "name": "Ciência da Computação",
+      "degree": "Bacharelado"
+    },
+    {
+      "id": 5,
+      "name": "Automação Industrial",
+      "degree": "Técnico"
+    },
+    {
+      "id": 6,
+      "name": "Física",
+      "degree": "Licenciatura"
+    }
+  ]
+}
